@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "60929cd56ce96574b4508dbf"
+  },
+  "fullNameCustomer": {
+    "firstName": "Tào Nhật",
+    "lastName": "Ninh"
+  },
+  "dateOfBirth": "01/02/2000",
+  "identityCardNumber": "001200021053",
+  "address": "Thanh Oai - Hà Nội",
+  "phoneNumber": "0981927223",
+  "email": "ninh.tao.102@gmail.com",
+  "loginInformation": {
+    "userName": "ninhtao102",
+    "password": "123456",
+    "type": "Admin",
+    "roles": [
+      "All"
+    ]
+  },
+  "avatar": "/uploads/user-01.png"
+}]

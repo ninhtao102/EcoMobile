@@ -1,0 +1,822 @@
+[{
+  "_id": {
+    "$oid": "60929e4d6ce96574b4508dc8"
+  },
+  "productName": "Iphone 13 Pro Max",
+  "description": {
+    "imageList": [
+      "/uploads/iphone-13-pro-max-xanh-1.jpg",
+      "/uploads/iphone-13-pro-max-xanh-2.jpg",
+      "/uploads/iphone-13-pro-max-xanh-3.jpg"
+    ],
+    "productDescription": "<p style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\"><span id=\"isPasted\" style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Điện thoại iPhone 13 Pro Max</span></p><p style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span id=\"isPasted\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div class=\"range-revamp-product-dimensions__list-container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div>",
+    "price": "33490000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "609138204045f5b26f8c79ab",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "60929e4d6ce96574b4508dc9"
+  },
+  "productName": "Iphone 12 Pro Max",
+  "description": {
+    "imageList": [
+      "/uploads\\iphone-12-pro-max-bac-1-org.jpg",
+      "/uploads\\iphone-12-pro-max-xam-1-org.jpg",
+      "/uploads\\iphone-12-pro-max-xanh-duong-1-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Điện thoại iPhone 12 Pro Max</span></p><p style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 14</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera: 3 camera 12MP/ 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Bộ nhớ trong : 128GB</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-dimensions__list-container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><br></div>",
+    "price": "3390000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "609138204045f5b26f8c79ab",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "60929e4d6ce96574b4508dca"
+  },
+  "productName": "Iphone 11",
+  "description": {
+    "imageList": [
+      "/uploads\\iphone-11-den-1-1-1-org.jpg",
+      "/uploads\\iphone-11-xanh-la-1-1-org.jpg"
+    ],
+    "productDescription": "<p style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-dimensions__list-container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><div class=\"range-revamp-expander\" style=\"padding: 0px; width: 367px;\"><div class=\"range-revamp-expander__content\" style=\"padding: 0px; margin-bottom: 15px;\"><br></div></div></div>",
+    "price": "11560000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "609138204045f5b26f8c79ab",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "60929e4d6ce96574b4508dcb"
+  },
+  "productName": "VSmart Star 4",
+  "description": {
+    "imageList": [
+      "/uploads\\vsmart-star-4-xanh-la-4-org.jpg",
+      "/uploads\\vsmart-star-4-xanh-la-1-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div>",
+    "price": "4690000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6091383d4045f5b26f8c79ac",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "60929e4d6ce96574b4508dcc"
+  },
+  "productName": "VSmart Joy 4",
+  "description": {
+    "imageList": [
+      "/uploads\\vsmart-joy-4-6gb-xanh-duong-3-org.jpg",
+      "/uploads\\vsmart-joy-4-6gb-xanh-duong-2-org.jpg",
+      "/uploads\\vsmart-joy-4-6gb-xanh-duong-1-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div>",
+    "price": "3550000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6091383d4045f5b26f8c79ac",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "60929e4d6ce96574b4508dcd"
+  },
+  "productName": "VSmart Aris",
+  "description": {
+    "imageList": [
+      "/uploads\\vsmart-aris-xam-4-org.jpg",
+      "/uploads\\vsmart-aris-xam-3-org.jpg",
+      "/uploads\\vsmart-aris-xam-2-org.jpg",
+      "/uploads\\vsmart-aris-xam-1-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-dimensions__list-container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><br></div>",
+    "price": "2500000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6091383d4045f5b26f8c79ac",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "60929e4d6ce96574b4508dce"
+  },
+  "productName": "Vsmart Active 3",
+  "description": {
+    "imageList": [
+      "/uploads/vsmart-active-3-6gb-xanh-la-1-org.jpg",
+      "/uploads/vsmart-active-3-6gb-xanh-la-2-org.jpg",
+      "/uploads/vsmart-active-3-6gb-xanh-la-3-org.jpg",
+      "/uploads/vsmart-active-3-6gb-xanh-la-4-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "3540000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6091383d4045f5b26f8c79ac",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81472"
+  },
+  "productName": "Samsung Galaxy Z Fold3",
+  "description": {
+    "imageList": [
+      "/uploads/samsung-galaxy-z-fold-3-green2-org.jpg",
+      "/uploads/samsung-galaxy-z-fold-3-green3-org.jpg",
+      "/uploads/samsung-galaxy-z-fold-3-green4-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "45500000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6091384c4045f5b26f8c79ad",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81473"
+  },
+  "productName": "Samsung Galaxy Z Flip3",
+  "description": {
+    "imageList": [
+      "/uploads/samsung-galaxy-z-flip-3-kem-1-org.jpg",
+      "/uploads/samsung-galaxy-z-flip-3-kem-2-org.jpg",
+      "/uploads/samsung-galaxy-z-flip-3-kem-3-org.jpg",
+      "/uploads/samsung-galaxy-z-flip-3-kem-4-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "16550000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6091384c4045f5b26f8c79ad",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81474"
+  },
+  "productName": "Samsung Galaxy S21 Ultra",
+  "description": {
+    "imageList": [
+      "/uploads/samsung-galaxy-s21-ultra-bac-1-org.jpg",
+      "/uploads/samsung-galaxy-s21-ultra-bac-2-org.jpg",
+      "/uploads/samsung-galaxy-s21-ultra-bac-3-org.jpg",
+      "/uploads/samsung-galaxy-s21-ultra-bac-4-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "16550000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6091384c4045f5b26f8c79ad",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81475"
+  },
+  "productName": "Samsung Galaxy Note 20",
+  "description": {
+    "imageList": [
+      "/uploads/samsung-galaxy-note-20-xanh-la-1-org.jpg",
+      "/uploads/samsung-galaxy-note-20-xanh-la-2-org.jpg",
+      "/uploads/samsung-galaxy-note-20-xanh-la-3-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "16200000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6091384c4045f5b26f8c79ad",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81476"
+  },
+  "productName": "Samsung Galaxy A52s",
+  "description": {
+    "imageList": [
+      "/uploads/samsung-galaxy-a52s-5g-mint-gc-org.jpg",
+      "/uploads/samsung-galaxy-a52s-5g-mint-gc-org.jpg",
+      "/uploads/samsung-galaxy-a52s-5g-mint-gc-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "17400000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6091384c4045f5b26f8c79ad",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81477"
+  },
+  "productName": "Sạc dự phòng Polymer 10.000 mAh Type C",
+  "description": {
+    "imageList": [
+      "/uploads/oppo-pbt02-trang-1-org.jpg",
+      "/uploads/oppo-pbt02-trang-2-org.jpg",
+      "/uploads/oppo-pbt02-trang-3-org.jpg",
+      "/uploads/oppo-pbt02-trang-4-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "650000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "609138654045f5b26f8c79ae",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81478"
+  },
+  "productName": "Tai nghe Bluetooth AirPods Pro",
+  "description": {
+    "imageList": [
+      "/uploads/airpods-pro-wireless-charge-apple-mwp22-ava-1-org.jpg",
+      "/uploads/airpods-pro-wireless-charge-apple-mwp22-ava-2-org.jpg",
+      "/uploads/airpods-pro-wireless-charge-apple-mwp22-ava-3-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "1650000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "609138654045f5b26f8c79ae",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81479"
+  },
+  "productName": "Tai nghe EP Mozard",
+  "description": {
+    "imageList": [
+      "/uploads\\chup-tai-rapoo-h100-den-2-2.jpg",
+      "/uploads\\chup-tai-rapoo-h100-den-3-2.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "1650000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "609138654045f5b26f8c79ae",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc8147a"
+  },
+  "productName": "Chuột Bluetooth Microsoft Arc",
+  "description": {
+    "imageList": [
+      "/uploads/chuot-bluetooth-microsoft-arc-den-1-org.jpg",
+      "/uploads/chuot-bluetooth-microsoft-arc-den-2-org.jpg",
+      "/uploads/chuot-bluetooth-microsoft-arc-den-3-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "1650000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "609138654045f5b26f8c79ae",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc8147b"
+  },
+  "productName": "Apple Watch S6 40mm",
+  "description": {
+    "imageList": [
+      "/uploads/apple-watch-s6-40mm-vien-nhom-day-cao-su-trang-cont-1-org.jpg",
+      "/uploads/apple-watch-s6-40mm-vien-nhom-day-cao-su-trang-cont-2-org.jpg",
+      "/uploads/apple-watch-s6-40mm-vien-nhom-day-cao-su-trang-cont-3-org.jpg",
+      "/uploads/apple-watch-s6-40mm-vien-nhom-day-cao-su-trang-cont-4-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "3650000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "609138654045f5b26f8c79ae",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc8147c"
+  },
+  "productName": "Vòng đeo tay thông minh Mi Band 5",
+  "description": {
+    "imageList": [
+      "/uploads/mi-band-5-den-1-org.jpg",
+      "/uploads/mi-band-5-den-2-org.jpg",
+      "/uploads/mi-band-5-den-3-org.jpg",
+      "/uploads/mi-band-5-den-4-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "3650000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "609138654045f5b26f8c79ae",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc8147d"
+  },
+  "productName": "Samsung Galaxy Watch 3 45mm",
+  "description": {
+    "imageList": [
+      "/uploads/samsung-galaxy-watch-3-45mm-bac-2-org.jpg",
+      "/uploads/samsung-galaxy-watch-3-45mm-bac-3-org.jpg",
+      "/uploads/samsung-galaxy-watch-3-45mm-bac-4-org.jpg",
+      "/uploads/samsung-galaxy-watch-3-45mm-bac-5-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><br></div>",
+    "price": "3650000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "609138654045f5b26f8c79ae",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc8147e"
+  },
+  "productName": "Máy tính bảng iPad Pro M1 12.9 inch",
+  "description": {
+    "imageList": [
+      "/uploads/ipad-pro-m1-129-inch-wifi-cellular-256gb-2021-bac-org.jpg",
+      "/uploads/ipad-pro-m1-129-inch-wifi-cellular-256gb-2021-bac-2-org.jpg",
+      "/uploads/ipad-pro-m1-129-inch-wifi-cellular-256gb-2021-xam-1-org.jpg",
+      "/uploads/ipad-pro-m1-129-inch-wifi-cellular-256gb-2021-xam-2-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div class=\"range-revamp-product-details__container\" style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px; margin-top: 20px; margin-bottom: 20px;\"><div class=\"range-revamp-product-dimensions__list-container\" style=\"padding: 0px;\"><br></div></div>",
+    "price": "16500000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6092aa3a6643fee08ac07055",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc8147f"
+  },
+  "productName": "Máy tính bảng Samsung Galaxy Tab S7 FE",
+  "description": {
+    "imageList": [
+      "/uploads/samsung-galaxy-tab-s7-fe-black-1-org.jpg",
+      "/uploads/samsung-galaxy-tab-s7-fe-black-2-org.jpg",
+      "/uploads/samsung-galaxy-tab-s7-fe-black-3-org.jpg"
+    ],
+    "productDescription": "<div class=\"range-revamp-product-dimensions__list-container\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px; display: flex; flex-wrap: wrap;\"><dt class=\"range-revamp-product-dimensions__list-item-name\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px; font-size: 18px; letter-spacing: -0.2625px;\"><p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div></span></div></div></span></div></div></dt></div>",
+    "price": "16500000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6092aa3a6643fee08ac07055",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81480"
+  },
+  "productName": "Máy tính bảng Huawei MatePad 11",
+  "description": {
+    "imageList": [
+      "/uploads/huawei-matepad-11-xam-1.jpg",
+      "/uploads/huawei-matepad-11-xam-2.jpg",
+      "/uploads/huawei-matepad-11-xam-3.jpg"
+    ],
+    "productDescription": "<div class=\"range-revamp-product-dimensions__list-container\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px; display: flex; flex-wrap: wrap;\"><dt class=\"range-revamp-product-dimensions__list-item-name\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px; font-size: 18px; letter-spacing: -0.2625px;\"><p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div></span></div></div></span></div></div></dt></div>",
+    "price": "16500000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6092aa3a6643fee08ac07055",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81481"
+  },
+  "productName": "Máy tính bảng iPad mini 6 WiFi Cellular",
+  "description": {
+    "imageList": [
+      "/uploads/ipad-mini-6-wifi-cellular-starlight-1-1.jpg",
+      "/uploads/ipad-mini-6-wifi-cellular-starlight-2.jpg",
+      "/uploads/ipad-mini-6-wifi-cellular-starlight-3.jpg"
+    ],
+    "productDescription": "<div class=\"range-revamp-product-dimensions__list-container\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px; display: flex; flex-wrap: wrap;\"><dt class=\"range-revamp-product-dimensions__list-item-name\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px; font-size: 18px; letter-spacing: -0.2625px;\"><p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div></span></div></div></span></div></div></dt></div>",
+    "price": "16500000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6092aa3a6643fee08ac07055",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81482"
+  },
+  "productName": "Máy tính bảng Samsung Galaxy Tab S7",
+  "description": {
+    "imageList": [
+      "/uploads\\samsung-galaxy-tab-s7-fan-editon-den-2.jpg",
+      "/uploads\\samsung-galaxy-tab-s7-fan-editon-den-3.jpg",
+      "/uploads\\samsung-galaxy-tab-s7-fe-black-1-org.jpg"
+    ],
+    "productDescription": "<div class=\"range-revamp-product-dimensions__list-container\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px; display: flex; flex-wrap: wrap;\"><dt class=\"range-revamp-product-dimensions__list-item-name\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px; font-size: 18px; letter-spacing: -0.2625px;\"><p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div></span></div></div></span></div></div></dt></div>",
+    "price": "16500000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6092aa3a6643fee08ac07055",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81483"
+  },
+  "productName": "Máy tính bảng Xiaomi Pad 5",
+  "description": {
+    "imageList": [
+      "/uploads/xiaomi-pad-5-white-gc-org.jpg",
+      "/uploads/xiaomi-pad-5-white-gc-org.jpg",
+      "/uploads/xiaomi-pad-5-white-gc-org.jpg",
+      "/uploads/xiaomi-pad-5-white-gc-org.jpg"
+    ],
+    "productDescription": "<div class=\"range-revamp-product-dimensions__list-container\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px; display: flex; flex-wrap: wrap;\"><dt class=\"range-revamp-product-dimensions__list-item-name\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px; font-size: 18px; letter-spacing: -0.2625px;\"><p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div></span></div></div></span></div></div></dt></div>",
+    "price": "16500000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6092aa3a6643fee08ac07055",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81484"
+  },
+  "productName": "Máy tính bảng Lenovo Tab P11 Plus",
+  "description": {
+    "imageList": [
+      "/uploads/lenovo-tab-p11-plus-gc.jpg",
+      "/uploads/lenovo-tab-p11-plus-grey-2.jpg",
+      "/uploads/lenovo-tab-p11-plus-grey-1.jpg"
+    ],
+    "productDescription": "<div class=\"range-revamp-product-dimensions__list-container\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px; display: flex; flex-wrap: wrap;\"><dt class=\"range-revamp-product-dimensions__list-item-name\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px; font-size: 18px; letter-spacing: -0.2625px;\"><p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div></span></div></div></span></div></div></dt></div>",
+    "price": "850000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6092aa3a6643fee08ac07055",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "6098b821bd0c2c1b8fc81485"
+  },
+  "productName": "Máy tính bảng iPad 9 WiFi",
+  "description": {
+    "imageList": [
+      "/uploads/ipad-gen-9-grey-1.jpg",
+      "/uploads/ipad-gen-9-grey-2.jpg",
+      "/uploads/ipad-gen-9-grey-3.jpg"
+    ],
+    "productDescription": "<div class=\"range-revamp-product-dimensions__list-container\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px; display: flex; flex-wrap: wrap;\"><dt class=\"range-revamp-product-dimensions__list-item-name\" style=\"box-sizing: inherit; outline: none; margin: 0px; padding: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px;\"><div class=\"range-revamp-product-details__container\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><div class=\"range-revamp-product-details__section\" style=\"box-sizing: inherit; outline: none; margin: 0px 0px 2rem; padding: 0px;\"><span class=\"range-revamp-product-details__header\" style=\"box-sizing: inherit; outline: none; display: block; margin: 0px; font-size: 18px; letter-spacing: -0.2625px;\"><p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div></span></div></div></span></div></div></dt></div>",
+    "price": "650000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "6092aa3a6643fee08ac07055",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "609a2af486cc025f3d1b590c"
+  },
+  "productName": "Máy tính bảng iPad mini 7.9 inch Wifi Cellular",
+  "description": {
+    "imageList": [
+      "/uploads/ipad-mini-79-inch-wifi-cellular-64gb-2019-xam-1-org.jpg",
+      "/uploads/ipad-mini-79-inch-wifi-cellular-64gb-2019-xam-2-org.jpg",
+      "/uploads/ipad-mini-79-inch-wifi-cellular-64gb-2019-xam-3-org.jpg",
+      "/uploads/ipad-mini-79-inch-wifi-cellular-64gb-2019-xam-1-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 15</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 3 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A15 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone 13 Pro Max - si&ecirc;u phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div><div style='box-sizing: inherit; outline: none; margin: 2rem 0px 0px; padding: 0px; color: rgb(72, 72, 72); font-family: \"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", -apple-system, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;'><div style='box-sizing: inherit; outline: none; margin: 0px; padding: 0px; display: flex; flex-wrap: wrap; color: rgb(72, 72, 72); font-family: \"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", -apple-system, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;'><br></div></div>",
+    "price": "2750000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "609138204045f5b26f8c79ab",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+},{
+  "_id": {
+    "$oid": "617d66a1fec6be2d44aa533c"
+  },
+  "productName": "Điện thoại iPhone XR",
+  "description": {
+    "imageList": [
+      "/uploads\\iphone-xr-xanh-1-1-org.jpg",
+      "/uploads\\iphone-xr-xanh-2-org.jpg",
+      "/uploads\\iphone-xr-xanh-3-org.jpg",
+      "/uploads\\iphone-xr-xanh-4-org.jpg"
+    ],
+    "productDescription": "<p id=\"isPasted\" style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Điện thoại iPhone XR</span></p><p style=\"margin-bottom: 1rem; color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px;\">M&agrave;n h&igrave;nh: &nbsp;<span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OLED</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">6.7&quot;</span><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Super Retina XDR</span>&nbsp;</p><div style=\"color: rgb(58, 68, 94); font-family: Roboto, sans-serif; font-size: 16px; padding: 0px;\"><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Hệ điều h&agrave;nh : IOS 11</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera sau : 1 camera 12MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Camera trước : 12 MP</span></span><br><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Chip :&nbsp;</span></span><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">Apple A11 Bionic</span></span></p><p style=\"margin-bottom: 1rem;\"><span style=\"font-size: 14px;\"><span style=\"color: rgb(72, 72, 72);\">RAM: 6GB</span></span></p><p style=\"margin-bottom: 1rem;\">IPhone XR - si&ecirc;u phẩm được mong chờ nhất đến từ Apple. M&aacute;y c&oacute; thiết kế kh&ocirc;ng mấy đột ph&aacute; khi so với người tiền nhiệm, b&ecirc;n trong đ&acirc;y vẫn l&agrave; một sản phẩm c&oacute; m&agrave;n h&igrave;nh si&ecirc;u đẹp, tần số qu&eacute;t được n&acirc;ng cấp l&ecirc;n 120 Hz mượt m&agrave;, cảm biến camera c&oacute; k&iacute;ch thước lớn hơn, c&ugrave;ng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A11 Bionic, sẵn s&agrave;ng c&ugrave;ng bạn chinh phục mọi thử th&aacute;ch.</p></div>",
+    "price": "13460000",
+    "unit": "Cái",
+    "supplierCode": "609142114045f5b26f8c79b0",
+    "typeCode": "609138204045f5b26f8c79ab",
+    "status": true
+  },
+  "discount": {
+    "state": "none",
+    "discountPercent": 0,
+    "startDate": "04/05/2021",
+    "endDate": "10/05/2021"
+  },
+  "rating": {
+    "purchase": 0,
+    "commentAndVote": []
+  }
+}]

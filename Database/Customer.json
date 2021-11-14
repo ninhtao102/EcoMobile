@@ -1,0 +1,48 @@
+[
+  {
+    "fullNameCustomer": {
+      "firstName": "Tào Nhật",
+      "lastName:": "Ninh"
+    },
+    "dateOfBirth": "01/02/2000",
+    "sex": true,
+    "identityCardNumber": "001200021053",
+    "address": "Thanh Oai - Hà Nội",
+    "phoneNumber": "0981927223",
+    "email": "ninh.tao.102@gmail.com",
+    "listProduct": [],
+    "listFavorite": [],
+    "loginInformation": {
+      "userName": "ninhtao",
+      "password": "ninhtao102",
+      "type": "User",
+      "roles": [
+        "Normal"
+      ]
+    },
+    "avatar": "/public/images/avatar-2.jpg"
+  },
+  {
+    "fullNameCustomer": {
+      "firstName": "Phạm Ngọc",
+      "lastName:": "Hưng"
+    },
+    "dateOfBirth": "12/09/2000",
+    "sex": true,
+    "identityCardNumber": "001200021064",
+    "address": "Cầu Giấy - Hà Nội",
+    "phoneNumber": "0969501765",
+    "email": "phamngochung28102000@gmail.com",
+    "listProduct": [],
+    "listFavorite": [],
+    "loginInformation": {
+      "userName": "hungpham",
+      "password": "hung1209",
+      "type": "User",
+      "roles": [
+        "Normal"
+      ]
+    },
+    "avatar": "/public/images/avatar-2.jpg"
+  }
+]
